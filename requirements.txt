@@ -1,0 +1,8 @@
+duckdb
+matplotlib
+pandas
+requests
+numpy
+seaborn
+plotly
+nbformat
