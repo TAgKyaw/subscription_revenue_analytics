@@ -5,7 +5,7 @@ A Revenue Dashboard building analysis project for a Subscription-based D2C Busin
 # Project Structure
 
 - **requirements.txt** : Installing required libraries from requirements.txt
-- **butternutbox.db** : Database created to start with EDA and conduct analysis. Also available to build own schema using:
+- **butternutbox.db** : Database created to start with EDA and conduct analysis. If unavailable, can be build and customise schemas using:
     - setup.py
     - extend_database.py
 - **setup.py** : Synthetic Data Generation for randomised customer data with modelled data schema
