@@ -1,7 +1,7 @@
 """
 BUTTERNUT BOX — Database Setup
 ================================
-Run this once to create your local database.
+Run this once to create local database.
 It will create a file called butternutbox.db in the same folder.
 
 Usage:
